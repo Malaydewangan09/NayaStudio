@@ -28,7 +28,8 @@ This part includes the frontend sketch board to make sketches
 
 ## SKETCH
 
-This part includes the oauth login with google or with username and password.
+#### This part includes the oauth login with google or with username and password.
+##### After
 
 
 
