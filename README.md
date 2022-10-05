@@ -64,18 +64,17 @@ $ git clone https://github.com/Malaydewangan09/NayaStudio.git
 
 If you are using npm, run from the root of the repository:
 
-```sh
+
 npm run install
-```
 
 Run an app
 
 Once the dependencies are installed, you can run the app :
 
-```sh
+
 yarn start
 # or
 npm start
-```
+
 
 ```
