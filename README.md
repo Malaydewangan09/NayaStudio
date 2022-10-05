@@ -8,7 +8,7 @@ This project includes 3 parts
 3. SKETCH
 
 
-##API
+## API
 
 This part includes the API for the project :
 1. Create the User.
@@ -18,7 +18,7 @@ This part includes the API for the project :
 5. Get all the users. 
 6. Get the User by ID.
 
-##FRONTEND-BOARD
+## FRONTEND-BOARD
 
 This part includes the frontend sketch board to make sketches
 
@@ -26,7 +26,7 @@ This part includes the frontend sketch board to make sketches
 2. User can save the sketch as a .png file .
 
 
-##SKETCH
+## SKETCH
 
 This part includes the oauth login with google or with username and password.
 
