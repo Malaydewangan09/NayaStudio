@@ -35,8 +35,8 @@ This part includes the oauth login with google or with username and password.
 
 ### Built With
 
-1.Spring-Boot (API, SKETCH)
-2.React (FRONTEND-BOARD)
+1. Spring-Boot (API, SKETCH)
+2. React (FRONTEND-BOARD)
 
 
 <!-- GETTING STARTED -->
