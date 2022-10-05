@@ -78,4 +78,7 @@ $ git clone https://github.com/Malaydewangan09/NayaStudio.git
 
 ```
 
+## ScreenShots
+![s1](https://user-images.githubusercontent.com/66718045/194050901-38032c4e-dda3-4aea-938f-460f6fc3e024.jpg)
+
 
