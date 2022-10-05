@@ -1,0 +1,17 @@
+.canvasContainer {
+    margin: 2%;
+}
+
+.sidebarContainer {
+    width: 20%;
+    margin: 0 !important;
+    text-align: center !important;
+}
+
+.spanStyle {
+    padding-top: 2% !important;
+}
+
+.chosenButtonStyle {
+    border: 1px solid black !important;
+}
