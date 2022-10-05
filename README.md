@@ -58,8 +58,8 @@ $ git clone https://github.com/Malaydewangan09/NayaStudio.git
 ## Step 3 Install Each Folders
 
 
-
-### For FRONTEND-BOARD 
+```sh
+### a)  For FRONTEND-BOARD 
 
 If you are using npm, run from the root of the repository:
 
@@ -72,8 +72,9 @@ npm run install
 Once the dependencies are installed, you can run the app :
 
 ```sh
-cd 1-rendering
 yarn start
 # or
 npm start
+```
+
 ```
