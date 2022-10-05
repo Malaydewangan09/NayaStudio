@@ -55,26 +55,26 @@ From the command line, clone the repository:
 $ git clone https://github.com/Malaydewangan09/NayaStudio.git
 ```
 
-## Step 3 Install Each Folders
 
 
 
-### a)  For FRONTEND-BOARD 
+
+### a)  For frontend-board folder
 ```sh
 
-If you are using npm, run from the root of the repository:
-
-
-npm run install
-
-Run an app
-
-Once the dependencies are installed, you can run the app :
-
-
-yarn start
-# or
-npm start
-
+1. cd frontend-board
+2. npm install
+3. npm start
 
 ```
+
+### a)  For Api and Sketch Folders
+```sh
+
+1. Open the folders in any IDE 
+2. run the application
+3. Appliacation will be running on localhost:8080
+
+```
+
+
