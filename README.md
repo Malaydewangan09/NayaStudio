@@ -47,4 +47,33 @@ After authentication user will be redirected to the sketch application.
 
 
 
+## Step 2 - Clone the repository:
 
+From the command line, clone the repository:
+
+```sh
+$ git clone https://github.com/Malaydewangan09/NayaStudio.git
+```
+
+## Step 3 Install Each Folders
+
+
+
+### For FRONTEND-BOARD 
+
+If you are using npm, run from the root of the repository:
+
+```sh
+npm run install
+```
+
+### Step 4 - Run an app
+
+Once the dependencies are installed, you can run the app :
+
+```sh
+cd 1-rendering
+yarn start
+# or
+npm start
+```
