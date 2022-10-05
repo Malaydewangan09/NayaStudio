@@ -39,6 +39,7 @@ After authentication user will be redirected to the sketch application.
 
 1. Spring-Boot (API, SKETCH)
 2. React (FRONTEND-BOARD)
+3. MYSQL
 
 
 <!-- GETTING STARTED -->
